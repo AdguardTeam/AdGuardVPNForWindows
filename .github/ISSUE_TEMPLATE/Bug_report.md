@@ -19,12 +19,10 @@ Please answer the following questions for yourself before submitting an issue. *
   - <!-- (e.g. v1.0.0) -->
 - **VPN mode:**
   - <!-- (e.g. Local VPN / SOCKS5) -->
-- **Device:**
-  - <!-- (e.g. Google Pixel 3 XL) -->
 - **Operating system and version:**
   - <!-- (e.g. Windows 10) -->
-- **Root access:**
-  - <!-- (e.g. Yes / No) -->
+- **Other network-level software:**
+  - <!-- (e.g. Antivirus, Firewall, AdGuard) -->
 
 ### Expected Behavior
 
