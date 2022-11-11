@@ -14,7 +14,14 @@
     <a href="https://twitter.com/AdGuard">Twitter</a> |
     <a href="https://t.me/adguard_en">Telegram</a>
     <br /><br />
-</p>
+  <a
+    </a>
+    <a href="https://github.com/AdguardTeam/AdguardVPNForWindows/releases/">
+        <img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardVPNForWindows.svg?label=release" alt="Latest release" />
+    </a>
+    <a href="https://github.com/AdguardTeam/AdguardVPNForWindows/releases/">
+    <img src="https://img.shields.io/github/tag-pre/AdguardTeam/AdGuardVPNForWindows.svg?label=beta" alt="Beta version>" />
+    </a>
 
 
 <p align="center">
