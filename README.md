@@ -1,5 +1,5 @@
 <p align="center">
- <image src="https://cdn.adtidy.org/content/release_notes/vpn/windows/v2.0/new_main_window_en.png?34" width = "600"px">
+
 </p>
 
 <h3 align="center">Fast, flexible and reliable VPN solution for Windows</h3>
@@ -25,7 +25,7 @@
 
 
 <p align="center">
-<image src="https://cdn.adguard.com/public/Adguard/Github/vpn_win_readme.png" width="600">
+<image src="https://cdn.adtidy.org/content/release_notes/vpn/windows/v2.0/new_main_window_en.png?34" width = "600"px">
 </p>
 
 <a id="feedback"></a>
