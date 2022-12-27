@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/17472907/94009288-ebc54e00-fdac-11ea-967e-58f2cf615953.png" width="300px" alt="AdGuard VPN for Windows" />
+ <image src="https://cdn.adtidy.org/content/release_notes/vpn/windows/v2.0/new_main_window_en.png?34" width = "600"px">
 </p>
 
 <h3 align="center">Fast, flexible and reliable VPN solution for Windows</h3>
