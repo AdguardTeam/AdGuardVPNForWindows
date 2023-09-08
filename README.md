@@ -1,5 +1,8 @@
 <p align="center">
-<img src="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_w.svg" width="300px" alt="AdGuard VPN for Windows" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_dark_w.svg" width="300px" alt="AdGuard VPN for Windows" />
+<img src="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_w.svg?" width="300px" alt="AdGuard VPN for Windows" />
+</picture>
 </p>
 
 <h3 align="center">Fast, flexible and reliable VPN solution for Windows</h3>
