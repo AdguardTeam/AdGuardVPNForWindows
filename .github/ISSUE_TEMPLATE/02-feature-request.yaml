@@ -1,8 +1,8 @@
 ---
 
 name: 🌱 Feature request
-description: Create a feature request to help us improve AdGuard VPN for Windows
-labels: ['Feature request']
+description: If you know how AdGuard VPN can be improved
+labels: ['feature request']
 body:
   - type: textarea
     id: what-happened
@@ -11,20 +11,26 @@ body:
       description: What happened?
       placeholder: Is your feature request related to a problem? Please add a clear and concise description of what the problem is.
     validations:
-      required: false
+      required: true
+
   - type: textarea
     id: how_it_should_be
     attributes:
       label: Proposed solution
-      description:
       placeholder: Describe the solution you'd like in a clear and concise manner.
     validations:
-      required: false
+      required: true
+
   - type: textarea
     id: additional
     attributes:
       label: Alternative solution
-      description:
       placeholder: A clear and concise description of any alternative solutions or features you've considered.
     validations:
       required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        Upvote [important issues](https://github.com/AdguardTeam/AdGuardVPNForWindows/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+) with a :+1:
