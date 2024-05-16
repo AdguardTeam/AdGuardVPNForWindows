@@ -2,7 +2,7 @@
 
 name: 🌱 Feature request
 description: If you know how AdGuard VPN can be improved
-labels: ['feature request']
+labels: "Feature request"
 body:
   - type: textarea
     id: what-happened
