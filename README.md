@@ -29,8 +29,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/release_notes/vpn/windows/v2.2/main_screen_dark.png" width = "600"px>
-  <img src="https://cdn.adtidy.org/content/release_notes/vpn/windows/v2.2/main_screen_light.png" width = "600"px>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/kb/vpn/windows/saved_locations.png" width = "600"px>
+  <img src="https://cdn.adtidy.org/content/kb/vpn/windows/saved_locations_light.png" width = "600"px>
 </picture>
 </p>
 
